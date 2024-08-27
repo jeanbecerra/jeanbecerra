@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hi, I am Jean Becerra</h1>
+<h1 align="center">Hi, I am Jean 👋</h1>
 
 ###
 
