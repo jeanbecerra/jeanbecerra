@@ -10,11 +10,9 @@
 </div>
 <br>
 <div align="center">
-<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
 </div>
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&amp;theme=gotham&amp;show_icons=true" alt="shamimsikder">
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra&amp;show_icons=true&amp;theme=gotham">
