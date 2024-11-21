@@ -1,6 +1,8 @@
-<p align="center" >
- <source src="https://videocdn.cdnpk.net/videos/9f4601cf-a93f-57e7-abb5-b043e276bf21/horizontal/previews/watermarked/large.mp4" type="video/mp4">
-</p>
+<div align="center">
+  <video src="https://videocdn.cdnpk.net/videos/9f4601cf-a93f-57e7-abb5-b043e276bf21/horizontal/previews/watermarked/large.mp4" width="600" controls>
+    Tu navegador no soporta la reproducción de video.
+  </video>
+</div>
 
 <div align="center">
   <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/148ba3db-8be3-4d05-aee3-cd0f6da3f3b5/d87z3ju-5d27ca61-bc8b-4803-ae98-8ee0f8ceb38e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0OGJhM2RiLThiZTMtNGQwNS1hZWUzLWNkMGY2ZGEzZjNiNVwvZDg3ejNqdS01ZDI3Y2E2MS1iYzhiLTQ4MDMtYWU5OC04ZWUwZjhjZWIzOGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qhZOTfuYnBZdDIAkLQwqsKgvXvT8qVxIW9Qum7yLpvI"  />
