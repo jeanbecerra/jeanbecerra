@@ -1,5 +1,5 @@
 <p align="center" >
- <source src="[ruta-del-video.mp4](https://videocdn.cdnpk.net/videos/9f4601cf-a93f-57e7-abb5-b043e276bf21/horizontal/previews/watermarked/large.mp4)" type="video/mp4">
+ <source src="https://videocdn.cdnpk.net/videos/9f4601cf-a93f-57e7-abb5-b043e276bf21/horizontal/previews/watermarked/large.mp4" type="video/mp4">
 </p>
 
 <div align="center">
