@@ -25,14 +25,6 @@
 </p>
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Peru<br><br>- 🔭 I’m working as developer<br>- 📚 I'm currently learning about python<br>- ⚡ In my free time I Play VideoGames</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
