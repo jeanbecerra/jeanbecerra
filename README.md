@@ -4,7 +4,7 @@
 </div>
 
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimsikder&amp;theme=gotham&amp;show_icons=true" alt="shamimsikder">
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shamimsikder&amp;show_icons=true&amp;theme=gotham">
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra;show_icons=true&amp;theme=gotham">
 </p>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
