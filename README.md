@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&theme=neon&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbecerra&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
+  
 </div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -15,13 +15,14 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <a href="https://wa.me/51914210336">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+    
 </a>
 </div>
 
 ###
 
 <h1 align="center">Hi, I am Jean 👋</h1>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbecerra&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
