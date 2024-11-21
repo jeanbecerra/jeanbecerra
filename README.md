@@ -1,5 +1,5 @@
-<p align="center" style="margin: 40px 0;">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer](https://videocdn.cdnpk.net/videos/9f4601cf-a93f-57e7-abb5-b043e276bf21/horizontal/previews/watermarked/large.mp4)"/>
+<p align="center" >
+ <source src="[ruta-del-video.mp4](https://videocdn.cdnpk.net/videos/9f4601cf-a93f-57e7-abb5-b043e276bf21/horizontal/previews/watermarked/large.mp4)" type="video/mp4">
 </p>
 
 <div align="center">
