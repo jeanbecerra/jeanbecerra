@@ -8,9 +8,11 @@
     
 </a>
 </div>
-<div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/148ba3db-8be3-4d05-aee3-cd0f6da3f3b5/d87z3ju-5d27ca61-bc8b-4803-ae98-8ee0f8ceb38e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0OGJhM2RiLThiZTMtNGQwNS1hZWUzLWNkMGY2ZGEzZjNiNVwvZDg3ejNqdS01ZDI3Y2E2MS1iYzhiLTQ4MDMtYWU5OC04ZWUwZjhjZWIzOGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qhZOTfuYnBZdDIAkLQwqsKgvXvT8qVxIW9Qum7yLpvI"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&amp;theme=gotham&amp;show_icons=true" alt="shamimsikder">
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra&amp;show_icons=true&amp;theme=gotham">
@@ -23,11 +25,6 @@
 
 
 <h3 align="left">🛠 Language and tools</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
