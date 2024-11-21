@@ -37,11 +37,11 @@
 
 <p align="center"><img width="45%"
     src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jeanbecerra&amp;theme=gotham">
-  
-</p>
-<picture><img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
+  <picture><img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
     alt="adam-pw">
 </picture>
+
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
