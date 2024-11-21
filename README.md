@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
     
 </a>
-<br>
 </div>
+<br>
 <div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
