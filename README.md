@@ -19,7 +19,9 @@
 ###
 
 <h1 align="center">Hi, I am Jean 👋</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbecerra&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
+<p align="center"><img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jeanbecerra&amp;theme=gotham">
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw">
+</p>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
