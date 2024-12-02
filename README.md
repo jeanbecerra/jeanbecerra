@@ -34,14 +34,6 @@
 </div>
 
 <p align="center"><img width="45%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&amp;theme=gotham&amp;show_icons=true"
-    alt="shamimsikder">
-  <img width="45%"
-    src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra&amp;show_icons=true&amp;theme=gotham">
-</p>
-
-
-<p align="center"><img width="45%"
     src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jeanbecerra&amp;theme=gotham">
   <picture><img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
     alt="adam-pw">
