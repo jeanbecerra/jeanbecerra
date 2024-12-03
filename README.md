@@ -23,7 +23,6 @@
 
   </a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <br>
 <div align="center">
   <picture align="center">
@@ -39,17 +38,14 @@
   <img width="45%"
     src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra&amp;show_icons=true&amp;theme=gotham">
 </p>
-
-
-<p align="center"><img width="45%"
-    src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jeanbecerra&amp;theme=gotham">
-  <picture><img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
+<br>
+<p>
+<picture><img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
     alt="adam-pw">
 </picture>
-
 </p>
-
-<h3 align="left">🛠 Language and tools</h3>
+<br>
+<div align="center"><h3 align="left">🛠 Language and tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -107,7 +103,7 @@
 </div>
 
 ###
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -116,3 +112,4 @@
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
