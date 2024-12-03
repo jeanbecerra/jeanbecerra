@@ -23,7 +23,7 @@
 
   </a>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <br>
 <div align="center">
   <picture align="center">
@@ -32,6 +32,14 @@
     <img alt="GIF description" src="./Skills_Animation_White.gif">
   </picture>
 </div>
+
+<p align="center"><img width="45%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&amp;theme=gotham&amp;show_icons=true"
+    alt="shamimsikder">
+  <img width="45%"
+    src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra&amp;show_icons=true&amp;theme=gotham">
+</p>
+
 
 <p align="center"><img width="45%"
     src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jeanbecerra&amp;theme=gotham">
