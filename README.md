@@ -112,5 +112,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-  ![Jean Becerra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanbecerra&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Jean Becerra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanbecerra&custom_title=Jean%20Becerra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </div>
