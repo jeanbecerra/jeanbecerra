@@ -36,7 +36,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&&repo=github-readme-stats&cache_seconds=86400&theme=gotham"
     alt="shamimsikder">
   <img width="45%"
-    src="https://github-readme-stats-ten-gilt.vercel.app/api?username=jeanbecerra&amp;show_icons=true&amp;theme=gotham">
+    src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&show_icons=true&theme=gotham" alt="abhisheknaiidu">
 </p>
 
 <p>
