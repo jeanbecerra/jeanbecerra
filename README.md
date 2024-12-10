@@ -33,7 +33,7 @@
 </div>
 
 <p align="center"><img width="45%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jeanbecerra&repo=github-readme-stats&cache_seconds=86400&theme=gotham"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbecerra&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
     alt="shamimsikder">
   <img width="45%"
     src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&show_icons=true&theme=gotham" alt="abhisheknaiidu">
