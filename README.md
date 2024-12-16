@@ -1,6 +1,6 @@
 <div align="center">
       <picture>
-            <img media="(prefers-color-scheme: dark)" src="Black and Blue Animated Gamer Twitch Banner.gif" alt="Skills Animation" width="100%">
+            <img src="jeanbanner.gif" alt="Skills Animation" width="100%">
       </picture>
 </div>
 
