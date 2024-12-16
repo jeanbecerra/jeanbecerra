@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I am Jean 👋</h1>
+<td style="width: 45%; vertical-align: top; text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Jean_logo_dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Jean_logo_white.gif">
+        <img width="90%" alt="GIF description" src="./Skills_Animation_White.gif">
+      </picture>
+</td>
 <!-- REDES SOCIALES O CONTACTOS -->
 <div align="center">
   <a href="">
