@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I am Jean 👋</h1>
+<div align="center">
+      <picture>
+            <img media="(prefers-color-scheme: dark)" src="Black and Blue Animated Gamer Twitch Banner.gif" alt="Skills Animation" width="100%">
+      </picture>
+</div>
+
 <!-- REDES SOCIALES O CONTACTOS -->
 <div align="center">
   <a href="">
