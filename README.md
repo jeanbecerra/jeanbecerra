@@ -1,10 +1,9 @@
-<td align="center" width="40%">
+<div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Jean_logo_dark.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Jean_logo_white.gif">
-        <img width="90%" alt="GIF description" src="./Skills_Animation_White.gif">
+            <img media="(prefers-color-scheme: dark)" src="Jean_logo_dark.gif" alt="Skills Animation" width="300">
       </picture>
-</td>
+</div>
+
 <!-- REDES SOCIALES O CONTACTOS -->
 <div align="center">
   <a href="">
