@@ -1,4 +1,4 @@
-<td style="width: 45%; vertical-align: top; text-align: center;">
+<td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./Jean_logo_dark.gif">
         <source media="(prefers-color-scheme: light)" srcset="./Jean_logo_white.gif">
