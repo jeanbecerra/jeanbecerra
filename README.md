@@ -1,4 +1,3 @@
-oh no!!
 <div align="center">
       <picture>
             <img src="jeanbanner.gif" alt="Skills Animation" width="100%">
