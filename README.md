@@ -64,7 +64,7 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
         <img width="12" />
