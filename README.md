@@ -62,7 +62,7 @@
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
         <img width="12" />
