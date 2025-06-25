@@ -36,6 +36,9 @@
       <img width="90%"
         src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=dark&show_icons=true&hide_border=false&count_private=true"
         alt="GitHub Stats">
+        <img width="90%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&theme=dark&hide_border=false"
+        alt="GitHub Stats">
     </td>
     <!-- Columna derecha -->
     <td style="width: 45%; vertical-align: top; text-align: center;">
