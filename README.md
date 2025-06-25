@@ -72,6 +72,7 @@
         <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
 </div>
   </div>
