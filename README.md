@@ -37,7 +37,7 @@
         src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=dark&show_icons=true&hide_border=false&count_private=true"
         alt="GitHub Stats">
       <img width="50%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&theme=dark&hide_border=false"
+        src="https://streak-stats.demolab.com/?user=jeanbecerra&theme=dark"
         alt="GitHub Stats">
     </td>
     <!-- Columna derecha -->
