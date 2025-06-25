@@ -34,7 +34,7 @@
     <!-- Columna izquierda -->
     <td style="width: 55%; vertical-align: top;">
       <img width="90%"
-        src="https://github-readme-stats-dosx001.vercel.app/api/?username=jeanbecerra&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=00e7ff&text_color=9f9f9f&bg_color=151515"
+        src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=dark&show_icons=true&hide_border=false&count_private=true"
         alt="GitHub Stats">
     </td>
     <!-- Columna derecha -->
