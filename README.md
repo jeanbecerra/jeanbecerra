@@ -33,10 +33,10 @@
   <tr>
     <!-- Columna izquierda -->
     <td style="width: 55%; vertical-align: top;">
-      <img width="90%"
+      <img width="50%"
         src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=dark&show_icons=true&hide_border=false&count_private=true"
         alt="GitHub Stats">
-        <img width="90%"
+      <img width="50%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbecerra&theme=dark&hide_border=false"
         alt="GitHub Stats">
     </td>
