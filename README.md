@@ -27,7 +27,7 @@
       height="25" alt="whatsapp logo" />
   </a>
 </div>
-<!-- SKILLS Y GIF-->
+<!-- SKILLS Y xdGIF-->
 <br>
 <table>
   <tr>
