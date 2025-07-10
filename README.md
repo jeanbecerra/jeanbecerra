@@ -80,6 +80,8 @@
         <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />  
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=strapi" height="60" alt="strapi logo"  />  
 </div>
   </div>
 </div>
