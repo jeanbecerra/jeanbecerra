@@ -74,6 +74,8 @@
         <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
 </div>
   </div>
 </div>
