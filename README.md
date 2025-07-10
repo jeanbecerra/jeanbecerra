@@ -76,8 +76,10 @@
         <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-          <img width="12" />
+        <img width="12" />
         <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />  
 </div>
   </div>
 </div>
