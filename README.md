@@ -51,10 +51,15 @@
 <!-- GIF Animado -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; max-width: 50%; padding-right: 20px;">
-    <h3>🛠 Language and Tools</h3>
-    <div align="center">
-        <tr>
-    <th align="left">Frontend</th>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Base de Datos</th>
+    <th>Herramientas / Control de versiones</th>
+    <th>IDE</th>
+  </tr>
+  <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
       <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
@@ -65,39 +70,23 @@
       <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
       <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
     </td>
-  </tr>
-
-  <tr>
-    <th align="left">Backend</th>
     <td>
       <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
       <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" />
     </td>
-  </tr>
-
-  <tr>
-    <th align="left">Base de Datos</th>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
     </td>
-  </tr>
-
-  <tr>
-    <th align="left">Herramientas & Control de versiones</th>
     <td>
       <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
     </td>
-  </tr>
-
-  <tr>
-    <th align="left">IDE</th>
     <td>
       <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
     </td>
   </tr>
-</div>
-  </div>
-</div>
+</table>
+
+
 <br>
 <!-- Contribución Grid Snake -->
 <div align="center" style="margin-top: 20px;">
