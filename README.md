@@ -53,32 +53,48 @@
   <div style="flex: 1; max-width: 50%; padding-right: 20px;">
     <h3>🛠 Language and Tools</h3>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-        <img width="12" />
+        <tr>
+    <th align="left">Frontend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+      <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Backend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Base de Datos</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Herramientas & Control de versiones</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">IDE</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
+    </td>
+  </tr>
 </div>
   </div>
 </div>
