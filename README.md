@@ -32,11 +32,11 @@
 <table>
   <tr>
     <!-- Columna izquierda -->
-    <td style="width: 55%; vertical-align: top;">
+    <th style="width: 55%; vertical-align: top;">
       <img width="100%"
         src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=dark&show_icons=true&hide_border=false&count_private=true"
         alt="GitHub Stats">
-    </td>
+    </th>
     <!-- Columna derecha -->
     <td style="width: 45%; vertical-align: top; text-align: center;">
       <picture>
