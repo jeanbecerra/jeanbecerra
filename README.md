@@ -72,6 +72,7 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Python" />
       <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" />
     </td>
     <td>
