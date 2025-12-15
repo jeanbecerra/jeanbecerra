@@ -80,6 +80,7 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+          <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
