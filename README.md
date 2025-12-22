@@ -14,13 +14,15 @@
 <a
   href="https://mail.google.com/mail/?view=cm&fs=1&to=jeanlb.14.d@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Jean,%0D%0AVengo%20desde%20tu%20repositorio."
   target="_blank"
+  rel="noopener noreferrer"
 >
   <img
     src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
     height="25"
-    alt="gmail logo"
+    alt="Gmail"
   />
 </a>
+
 
   <a href="https://www.instagram.com/jeanbecerra_02/">
   <img
