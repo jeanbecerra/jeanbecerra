@@ -13,7 +13,7 @@
     alt="Discord"
   />
 </a>
-<a>
+<a
   href="https://mail.google.com/mail/?view=cm&fs=1&to=jeanlb.14.d@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Jean,%0D%0AVengo%20desde%20tu%20repositorio."
   target="_blank"
   rel="noopener noreferrer"
