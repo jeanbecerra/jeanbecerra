@@ -1,6 +1,6 @@
 <div align="center">
       <picture>
-            <img src="JeanBecerra-Banner-for-github (3).gif" alt="Skills Animation" width="100%">
+            <img src="JeanBecerra-Banner-for-github.gif" alt="Skills Animation" width="100%">
       </picture>
 </div>
 
