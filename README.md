@@ -1,7 +1,17 @@
 <div align="center">
-      <picture>
-            <img src="JeanBecerra-Banner-for-github (3).gif" alt="Skills Animation" width="100%">
-      </picture>
+  <a
+    href="https://portfolio-jean-becerra.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <picture>
+      <img
+        src="JeanBecerra-Banner-for-github (3).gif"
+        alt="Visitar mi portafolio"
+        width="100%"
+      />
+    </picture>
+  </a>
 </div>
 
 <!-- REDES SOCIALES O CONTACTOS -->
