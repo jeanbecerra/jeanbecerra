@@ -6,12 +6,13 @@
 
 <!-- REDES SOCIALES O CONTACTOS -->
 <div align="center">
-  <a href="">
+  <a title="Usuario de Discord: .jeanbecerra">
   <img
-    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-    height="25" alt="discord logo" />
-  </a>
-<a
+    src="https://img.shields.io/static/v1?message=.jeanbecerra&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge"
+    height="25"
+    alt="Discord"
+  />
+</a>
   href="https://mail.google.com/mail/?view=cm&fs=1&to=jeanlb.14.d@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Jean,%0D%0AVengo%20desde%20tu%20repositorio."
   target="_blank"
   rel="noopener noreferrer"
