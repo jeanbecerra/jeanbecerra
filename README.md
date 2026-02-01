@@ -48,24 +48,7 @@
 </div>
 <!-- SKILLS Y xdGIF-->
 <br>
-<table>
-  <tr>
-    <!-- Columna izquierda -->
-    <th style="width: 55%; vertical-align: top;">
-      <img width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=jeanbecerra&theme=dark&show_icons=true&hide_border=false&count_private=true"
-        alt="GitHub Stats">
-    </th>
-    <!-- Columna derecha -->
-    <td style="width: 45%; vertical-align: top; text-align: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-        <img width="90%" alt="GIF description" src="./Skills_Animation_White.gif">
-      </picture>
-    </td>
-  </tr>
-</table>
+
 
 <!-- GIF Animado -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
