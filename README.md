@@ -34,7 +34,7 @@
     alt="Gmail"
   />
 </a>
-
+  
   <a href="https://www.instagram.com/jeanbecerra_02/">
   <img
     src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
@@ -48,7 +48,6 @@
 </div>
 <!-- SKILLS Y xdGIF-->
 <br>
-
 
 <!-- GIF Animado -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
