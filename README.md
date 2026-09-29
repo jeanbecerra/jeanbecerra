@@ -91,9 +91,5 @@
 
 
 <br>
-<!-- Contribución Grid Snake -->
-<div align="center" style="margin-top: 20px;">
-  <!-- Actividad gráfica -->
-  <img alt="Jean Becerra's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jeanbecerra&custom_title=Jean%20Becerra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00E7FF&line=00E7FF&point=00E7FF&area_color=FFFFFF&title_color=FFFFFF&area=true" style="margin-top: 20px;">
-</div>
+
 
