@@ -134,13 +134,3 @@
 
 </div>
 </div>
-
-## Proyectos
-
-| Proyecto | Qué es | Tecnologías |
-|---|---|---|
-| **Fravatel Tariff Engine (FTE)** | Tarificador telefónico para centrales Grandstream UCM: escucha eventos AMI, calcula costos y saldos por anexo y los muestra en un panel web. En producción en dos instalaciones. | Python, FastAPI, PostgreSQL, SQLAlchemy, React, TypeScript, Tailwind, Docker, GitHub Actions |
-| **Portafolio personal** ([ver](https://portfolio-jean-becerra.vercel.app/)) | Mi portafolio con escenas 3D y animaciones. | React, Three.js, GSAP, Tailwind, Vite, Vercel |
-| **Yin** | Bot de Discord para moderar la comunidad. | Node.js, discord.js, MongoDB |
-| **Yang** | Bot social de Discord: juegos, eventos y recompensas. | Node.js, discord.js, MongoDB, Express |
-| **Reportes (frontend + backend)** | Aplicación de reportes con gráficos y exportación a Excel. | Vue, Chart.js, Express, MySQL |
