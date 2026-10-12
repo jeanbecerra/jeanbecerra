@@ -57,6 +57,8 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>Base de Datos</th>
+    <th>DevOps / Infraestructura</th>
+    <th>Testing y calidad</th>
     <th>Herramientas / Control de versiones</th>
     <th>IDE</th>
   </tr>
@@ -68,28 +70,77 @@
       <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
       <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
       <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
       <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=vite" height="60" alt="Vite" />
+      <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="Three.js" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=discordjs" height="60" alt="discord.js" />
       <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel" />
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
       <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="Nginx" />
+      <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash" />
+      <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="PowerShell" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vitest" height="60" alt="Vitest" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-          <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm" />
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
       <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" />
     </td>
   </tr>
 </table>
 
+<!-- Herramientas sin icono en skillicons -->
+<div align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="25" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Alembic" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="25" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" height="25" alt="uv" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="25" alt="pytest" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" height="25" alt="Ruff" />
+  <img src="https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge&logo=python&logoColor=white" height="25" alt="mypy" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="25" alt="Playwright" />
+  <img src="https://img.shields.io/badge/oxlint-FF7A00?style=for-the-badge&logo=oxc&logoColor=white" height="25" alt="oxlint" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white" height="25" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Asterisk%20AMI-F68F1E?style=for-the-badge&logo=asterisk&logoColor=white" height="25" alt="Asterisk AMI" />
+  <img src="https://img.shields.io/badge/Grandstream%20UCM-0057B8?style=for-the-badge&logo=voipdotms&logoColor=white" height="25" alt="Grandstream UCM" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="25" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="25" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="25" alt="Mongoose" />
+</div>
 
-<br>
+</div>
+</div>
 
+## Proyectos
 
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| **Fravatel Tariff Engine (FTE)** | Tarificador telefónico para centrales Grandstream UCM: escucha eventos AMI, calcula costos y saldos por anexo y los muestra en un panel web. En producción en dos instalaciones. | Python, FastAPI, PostgreSQL, SQLAlchemy, React, TypeScript, Tailwind, Docker, GitHub Actions |
+| **Portafolio personal** ([ver](https://portfolio-jean-becerra.vercel.app/)) | Mi portafolio con escenas 3D y animaciones. | React, Three.js, GSAP, Tailwind, Vite, Vercel |
+| **Yin** | Bot de Discord para moderar la comunidad. | Node.js, discord.js, MongoDB |
+| **Yang** | Bot social de Discord: juegos, eventos y recompensas. | Node.js, discord.js, MongoDB, Express |
+| **Reportes (frontend + backend)** | Aplicación de reportes con gráficos y exportación a Excel. | Vue, Chart.js, Express, MySQL |
